@@ -1,6 +1,10 @@
 # Texture Flow: Roblox UV Animator
 A high performance roblox script designed to create continous movement, scrolling or pulsing effects on 3D model textures.
 
+## Author
+
+Created by **died**
+
 
 ## Features
 Smooth Scrolling: Create flowing water, conveyor belts, or moving clouds.
@@ -20,3 +24,7 @@ Naming: Keep the default name for all 6 textures as "Texture".
 Set Faces: In the Properties window, set each texture's Face property to: Front, Back, Left, Right, Top, and Bottom.
 
 Add the Script: Place this script directly inside the MeshPart.
+
+---
+
+© 2026 died. All rights reserved.
